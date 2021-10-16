@@ -1,0 +1,113 @@
+body {
+      font-family: BogleWeb,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+}
+.flex {
+  display: flex;
+}
+.z-1 {
+  z-index: 1;
+}
+.z-0 {
+  z-index: 0;
+}
+.nowrap {
+  white-space: nowrap;
+}
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.navbar {
+  padding: 24px;
+}
+.logo {
+  margin-right: 16px;
+  max-width: 100%;
+  height: 32px;
+  width: 130px;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.border-box {
+  box-sizing: border-box;
+}
+.block {
+  display: block;
+}
+
+.navButton {
+  border-radius: 100px;
+  height: 40px;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: initial;
+  font-weight: 700;
+}
+.navButton:hover {
+  background-color: #002d58;
+  color: white;
+}
+
+.items-center-align {
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+.searchbar {
+  border-radius: 40px;
+  border-color: transparent;
+  overflow: visible;
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 30px;
+  width: 500px;
+  font-size: 16px;
+}
+.SearchButton {
+  right: 0.25rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 100%;
+  border-color: transparent;
+}
+
+.reorder {
+  margin-left: 16px;
+}
+
+.main {
+  margin-top: 88px;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-auto {
+  flex: 1 1 auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  min-height: 0;
+  min-width: 0;
+}
+.section {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blue-bar {
+  line-height: 2;
+  overflow: hidden;
+}
