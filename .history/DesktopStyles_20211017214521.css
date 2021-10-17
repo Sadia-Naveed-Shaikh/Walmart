@@ -195,7 +195,7 @@ a:hover .dropdowndown-content {
   margin-left: 16px;
 }
 .main {
-  margin-top: 86px;
+  margin-top: 88px;
 }
 .flex-column {
   flex-direction: column;
@@ -341,20 +341,4 @@ a:hover .dropdowndown-content {
 .footer2Link {
   font-size: 14px;
   margin-right: 24px;
-}
-.copyright {
-  font-size: 12px;
-  text-align: center;
-  padding-top: 8px;
-  line-height: 1.25;
-}
-.footer2 {
-  padding-bottom: 24px;
-  padding-top: 24px;
-}
-.footer2ul {
-  max-width: 1280px;
-  padding-left: 24px;
-  padding-right: 24px;
-  list-style-type: none;
 }

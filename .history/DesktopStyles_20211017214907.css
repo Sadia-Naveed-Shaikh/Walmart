@@ -195,7 +195,7 @@ a:hover .dropdowndown-content {
   margin-left: 16px;
 }
 .main {
-  margin-top: 86px;
+  margin-top: 88px;
 }
 .flex-column {
   flex-direction: column;
@@ -220,6 +220,7 @@ a:hover .dropdowndown-content {
 .blue-bar {
   line-height: 2;
   overflow: hidden;
+  margin-top: 0;
 }
 
 .slider {

@@ -195,7 +195,7 @@ a:hover .dropdowndown-content {
   margin-left: 16px;
 }
 .main {
-  margin-top: 86px;
+  margin-top: 88px;
 }
 .flex-column {
   flex-direction: column;
@@ -211,6 +211,7 @@ a:hover .dropdowndown-content {
 .section {
   padding-top: 4px;
   padding-bottom: 4px;
+  margin-top: 0;
 }
 .center {
   margin-left: auto;
