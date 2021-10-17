@@ -9,28 +9,20 @@
   }
 
   header .logo {
-    margin-right: 113px;
+    margin-right: 80px;
     height: 15px;
-    width: 15px;
+    width: 30px;
   }
   header {
     width: auto;
   }
   header div .searchbar {
-    width: 125px;
+    width: 150px;
   }
   .navbar {
-    padding: 2px;
+    padding: 5px;
   }
   .SignIn {
-    margin-left: 0px;
-  }
-  .main .slider {
-    padding: 0px;
-    margin-left: 0px;
-  }
-  .main .slider img {
-    width: 360px;
-    height: 360px;
+    margin-left: 5px;
   }
 }

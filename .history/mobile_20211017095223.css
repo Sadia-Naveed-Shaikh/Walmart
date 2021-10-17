@@ -17,20 +17,12 @@
     width: auto;
   }
   header div .searchbar {
-    width: 125px;
+    width: 150px;
   }
   .navbar {
     padding: 2px;
   }
   .SignIn {
     margin-left: 0px;
-  }
-  .main .slider {
-    padding: 0px;
-    margin-left: 0px;
-  }
-  .main .slider img {
-    width: 360px;
-    height: 360px;
   }
 }

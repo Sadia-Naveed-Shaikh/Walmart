@@ -9,7 +9,7 @@
   }
 
   header .logo {
-    margin-right: 113px;
+    margin-right: 110px;
     height: 15px;
     width: 15px;
   }
@@ -17,20 +17,12 @@
     width: auto;
   }
   header div .searchbar {
-    width: 125px;
+    width: 150px;
   }
   .navbar {
-    padding: 2px;
+    padding: 3px;
   }
   .SignIn {
-    margin-left: 0px;
-  }
-  .main .slider {
-    padding: 0px;
-    margin-left: 0px;
-  }
-  .main .slider img {
-    width: 360px;
-    height: 360px;
+    margin-left: 5px;
   }
 }

@@ -182,66 +182,8 @@ header {
   padding: 20px;
 }
 
-.prodHead {
+ {
   font-size: 20px;
   line-height: 1.25;
   font-weight: bold;
-}
-.prodItems {
-  padding: 10px;
-}
-
-.singleProd {
-  width: 20%;
-  padding: 10px;
-}
-.pordImage {
-  width: 200px;
-  height: 200px;
-}
-.btnDiv {
-  position: absolute;
-  top: 180px;
-  left: 10px;
-}
-.addBtn {
-  border-radius: 100px;
-  border-color: transparent;
-  width: 80px;
-  height: 40px;
-}
-.fiveStar {
-  width: 50px;
-  height: 20px;
-}
-
-.tag {
-  font-size: 12px;
-  color: blue;
-  width: 100px;
-  height: 30px;
-  padding-top: 4px;
-}
-
-.box {
-  border-radius: 10px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  margin: 30px;
-  align-items: center;
-  align-content: center;
-  justify-content: center;
-  display: flex;
-  box-shadow: 0 1px 2px 2px rgb(0 0 0 / 15%);
-}
-
-.boxImg {
-  height: 50px;
-  width: 80px;
-  margin-right: 10px;
-}
-
-.learn {
-  color: black;
-  margin-left: 10px;
 }

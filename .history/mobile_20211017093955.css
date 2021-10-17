@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
+  header div .reorder,
+  header div .dropdown,
+  header div .services {
+    display: none;
+  }
+  header {
+    width: 50%;
+  }
+}

@@ -25,12 +25,10 @@
   .SignIn {
     margin-left: 0px;
   }
-  .main .slider {
-    padding: 0px;
-    margin-left: 0px;
-  }
   .main .slider img {
+    padding: 0px;
+    margin-left: 0;
     width: 360px;
-    height: 360px;
+    height: 600px;
   }
 }
